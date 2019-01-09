@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPS>
+<default_app_n1 value="most_used"/>
+<default_app_n2 value="most_used"/>
+<default_app_n3 value="most_used"/>
+<default_app_n4 value="most_used"/>
+<default_app_n5 value="most_used"/>
+<app_groups_sorting value="2"/>
+<edu.cmu.cs.speech.tts.flite-edu.cmu.cs.speech.tts.flite.FliteManager show="false"/>
+<com.menny.android.anysoftkeyboard-com.menny.android.anysoftkeyboard.LauncherSettingsActivity show="false"/>
+<ohi.andre.consolelauncher-ohi.andre.consolelauncher.LauncherActivity show="true"/>
+<com.android.settings-com.android.settings.Settings show="false"/>
+</APPS>

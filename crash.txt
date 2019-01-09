@@ -1,0 +1,37 @@
+Fri Dec 28 13:01:23 CST 2018
+
+java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.CharSequence ohi.andre.consolelauncher.managers.k.a(android.content.Context, int, java.lang.CharSequence, int)' on a null object reference
+	at ohi.andre.consolelauncher.b$g.run(Unknown Source)
+	at android.os.Handler.handleCallback(Handler.java:739)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:135)
+	at android.app.ActivityThread.main(ActivityThread.java:5343)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:905)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:700)
+
+
+	at android.os.Looper.loop(Looper.java:135)
+	at android.app.ActivityThread.main(ActivityThread.java:5343)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:905)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:700)
+
+
+
+andre.consolelauncher.tuils.l$1@16041383
+	at android.app.LoadedApk.forgetReceiverDispatcher(LoadedApk.java:765)
+	at android.app.ContextImpl.unregisterReceiver(ContextImpl.java:1805)
+	at android.content.ContextWrapper.unregisterReceiver(ContextWrapper.java:511)
+	at ohi.andre.consolelauncher.tuils.l.c(Unknown Source)
+	at ohi.andre.consolelauncher.b.a(Unknown Source)
+	at ohi.andre.consolelauncher.LauncherActivity.k(Unknown Source)
+	at ohi.andre.consolelauncher.LauncherActivity.onDestroy(Unknown Source)
+	at android.app.Activity.performDestroy(Activity.java:6189)
+	at android.app.Instrumentation.callActivityOnDestroy(Instrumentation.java:1164)
+	at android.app.ActivityThread.performDestroyActivity(ActivityThread.java:3778)
+	... 11 more
+
+

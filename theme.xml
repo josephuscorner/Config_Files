@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<THEME>
+<input_color value="#ff00ff00"/>
+<output_color value="#ffffffff"/>
+<bg_color value="#ff000000"/>
+<device_color value="white"/>
+<battery_color_high value="white"/>
+<battery_color_medium value="white"/>
+<battery_color_low value="red"/>
+<time_color value="white"/>
+<storage_color value="white"/>
+<ram_color value="white"/>
+<network_info_color value="red"/>
+<toolbar_bg value="false"/>
+<toolbar_color value="#ffff0000"/>
+<enter_color value="#ffffffff"/>
+<cursor_color value="#ffffff"/>
+<overlay_color value="#80000000"/>
+<alias_content_color value="#1DE9B6"/>
+<statusbar_color value="#000000"/>
+<navigationbar_color value="#000000"/>
+<app_installed_color value="#FF7043"/>
+<app_uninstalled_color value="#FF7043"/>
+<hint_color value="#4CAF50"/>
+<mark_color value="#CDDC39"/>
+<notes_color value="#8BC34A"/>
+<notes_locked_color value="#3D5AFE"/>
+<link_color value="#0000EE"/>
+</THEME>
